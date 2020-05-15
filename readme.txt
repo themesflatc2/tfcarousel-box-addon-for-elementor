@@ -1,7 +1,7 @@
 === TFCarousel Box Addon For Elementor ===
 Tags: tfcarousel, carousel, elementor
 Contributors: themesflatc2
-Requires at least: 1.0.2
+Requires at least: 1.0.0
 Requires PHP: 5.2
 Tested up to: 5.2
 Stable tag: 1.65
